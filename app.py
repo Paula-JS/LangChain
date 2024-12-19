@@ -1,6 +1,5 @@
 import streamlit as st
 import os
-from IPython.display import Markdown
 
 # Librerías para la preparación de datos
 from langchain.document_loaders import PyPDFDirectoryLoader #leer un pdf 
